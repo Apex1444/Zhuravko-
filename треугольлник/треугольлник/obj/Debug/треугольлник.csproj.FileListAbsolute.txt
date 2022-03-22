@@ -1,0 +1,10 @@
+D:\Журавко\треугольлник\треугольлник\obj\Debug\треугольлник.csproj.AssemblyReference.cache
+D:\Журавко\треугольлник\треугольлник\obj\Debug\треугольлник.Form1.resources
+D:\Журавко\треугольлник\треугольлник\obj\Debug\треугольлник.Properties.Resources.resources
+D:\Журавко\треугольлник\треугольлник\obj\Debug\треугольлник.csproj.GenerateResource.cache
+D:\Журавко\треугольлник\треугольлник\obj\Debug\треугольлник.csproj.CoreCompileInputs.cache
+D:\Журавко\треугольлник\треугольлник\bin\Debug\треугольлник.exe.config
+D:\Журавко\треугольлник\треугольлник\bin\Debug\треугольлник.exe
+D:\Журавко\треугольлник\треугольлник\bin\Debug\треугольлник.pdb
+D:\Журавко\треугольлник\треугольлник\obj\Debug\треугольлник.exe
+D:\Журавко\треугольлник\треугольлник\obj\Debug\треугольлник.pdb
